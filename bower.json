@@ -1,0 +1,36 @@
+{
+  "name": "artol-v2",
+  "description": "Artol development profile website",
+  "main": "app.js",
+  "authors": [
+    "Arthur Tolchinsky"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "bootstrap": "latest",
+    "angular-ui-router": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "hover": "latest",
+    "magnific-popup": "latest",
+    "jquery": "2.2.0",
+    "images-loaded": "latest",
+    "isotope": "latest",
+    "jquery-circle-progress": "latest",
+    "waypoints": "latest",
+    "jquery.counterup": "latest",
+    "jquery-pjax": "latest",
+    "ionicons": "latest"
+
+  },
+  "license": "ISC",
+  "homepage": "artol.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
